@@ -1,3 +1,6 @@
 {
-    "name": "test-package"
+    "name": "test-package",
+    "dependencies": {
+        "some-dep": "1.0.0"
+    }
 }
